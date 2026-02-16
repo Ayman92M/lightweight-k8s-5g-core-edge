@@ -65,8 +65,3 @@ sudo timeshift --restore --snapshot 'SNAPSHOT_NAME'
 
 ---
 
-## GRUB question during restore
-
-```text
-Re-install GRUB2 bootloader? (recommended) (y/n): n
-```
